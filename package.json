@@ -1,0 +1,22 @@
+{
+  "name": "my-cache",
+  "version": "0.0.1",
+  "description": "my-cache",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bagvj/my-cache.git"
+  },
+  "keywords": [
+    "cache"
+  ],
+  "author": "bagvj",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/bagvj/my-cache/issues"
+  },
+  "homepage": "https://github.com/bagvj/my-cache#readme"
+}
